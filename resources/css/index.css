@@ -1,15 +1,17 @@
-h1,
-h2,
-p{
-  font-family: Verdana;
-}
+
 body{
   background-color: black;
+  color: white;
+  font-family: Verdana;
+
+  text-align: center;
 }
 h1 {
-  text-align: center;
-  color: white;
   font-size: 50px;
+}
+h2 {
+  font-size: 42px;
+  font-weight: 300;
 }
 
 p {
@@ -18,4 +20,13 @@ p {
 }
 a{
   color: Aquamarine;
+}
+
+div p {
+  font-size: 21px;
+  color: gray;
+}
+
+#excursion {
+  text-align: right;
 }
