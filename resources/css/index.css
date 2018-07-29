@@ -1,0 +1,21 @@
+h1,
+h2,
+p{
+  font-family: Verdana;
+}
+body{
+  background-color: black;
+}
+h1 {
+  text-align: center;
+  color: white;
+  font-size: 50px;
+}
+
+p {
+  text-align: center;
+  font-size: 16px;
+}
+a{
+  color: Aquamarine;
+}
